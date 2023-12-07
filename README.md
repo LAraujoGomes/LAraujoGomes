@@ -24,6 +24,6 @@
 
 <img align = "center" alt = "MYSQL" src = "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 
-<br>
+<br><br>
 Estudando diversas tecnologias e aprendendo muito a cada dia🦾
 
